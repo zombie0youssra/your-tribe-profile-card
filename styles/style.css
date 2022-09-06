@@ -8,7 +8,8 @@ html {
 }
 
 body {
-  background-image: url(./../assets/Psychedelic\ 70s\ Aesthetic\ Wallpaper\ Hd\ Images\,\ Retro\ 1970s\ Background\ Images\ -\ FancyOdds.jpg);
+  background: url(./../assets/Psychedelic\ 70s\ Aesthetic\ Wallpaper\ Hd\ Images\,\ Retro\ 1970s\ Background\ Images\ -\ FancyOdds.jpg) no-repeat;
+  background-size: cover;
   height:100vh;
   font-family: open sans;
   display:flex;
