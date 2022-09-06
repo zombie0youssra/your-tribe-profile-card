@@ -1,3 +1,4 @@
+ 
 * {
   box-sizing:border-box;
 }
@@ -7,6 +8,7 @@ html {
 }
 
 body {
+  background-image: url(./../assets/Psychedelic\ 70s\ Aesthetic\ Wallpaper\ Hd\ Images\,\ Retro\ 1970s\ Background\ Images\ -\ FancyOdds.jpg);
   height:100vh;
   font-family: open sans;
   display:flex;
