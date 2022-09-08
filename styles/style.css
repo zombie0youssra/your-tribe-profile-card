@@ -21,6 +21,23 @@ header {
   background-color: #893700;
   border-radius: 2em;
 
+
+}
+
+.foto {
+  height: 150px;
+  width: 150px;
+  border: 5px solid ;
+  border-color:#fabb00;
+  border-radius: 50%;
+
+
+
+}
+
+.header:hover {
+  height: 325px;
+  width: 325px;
 }
 
 .streep {
@@ -28,6 +45,7 @@ header {
   border-radius: 2em;
   height: 8px;
   width: 300px;
+  align-items: center;
 }
 .naam {
   color: #fcab68;
@@ -44,4 +62,16 @@ header {
   font-style: italic;
   margin-top: 6px;
   text-align: center;
+}
+.about {
+  color: #eddbd07e;
+  font-family: arial;
+  font-size: 14px;
+  text-align: center;
+  transition-property: color;
+  transition-duration: 1,5s;
+}
+
+.about:hover {
+  color: #eddbd0;
 }
