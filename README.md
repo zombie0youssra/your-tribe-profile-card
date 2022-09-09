@@ -13,6 +13,9 @@
   * [🎨ontwerpen](#installatie)
   * [💻intergreren](#gebruik)
 
+
+## opdracht
+de opdracht is om een visitiekaartje te maken.
 ## brainstorm
 tijdens deze fase heb.......
 ## ontwerpen
