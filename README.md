@@ -1,9 +1,9 @@
 
-# Titel
+# visitekaartje
 
-## Beschrijving
-<!-- Voeg een link toe naar Github Pages 🌐-->
-<!-- Voeg een mooie poster visual toe 📸 -->
+# persoonlijke visitekaartje
+🌐link:https://zombie0youssra.github.io/your-tribe-profile-card/
+📸 screenshot:
 
 ## Inhoudsopgave
 
