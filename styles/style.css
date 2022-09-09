@@ -15,15 +15,14 @@ body {
   display:flex;
   justify-content:center;
   align-items:center;
-  color:brown;
+  color:rgb(255, 234, 234);
+
 }
 header {
   background-color: #893700;
   width: fit-content;
   height: fit-content;
-  border-radius: 2em;
-
-
+  border-radius: 2em;  
 }
 
 .foto {
@@ -35,16 +34,7 @@ header {
   display: block;
   margin: auto;
   transition-duration: 2s;
-
-
-
 }
-
-.foto:hover {
-  height: 200px;
-  width: 200px;
-}
-
 .streep {
   background-color: #fabb00;
   border-radius: 2em;
@@ -85,4 +75,26 @@ header {
 .aboutme {
   color: #eddbd0;
   text-align: center;
+
+}
+
+.aboutme_content{
+ display: none;
+ text-align: center;
+ transition: 1.5s;
+ background-color: #893700;
+ word-wrap:
+
+}
+
+.aboutme:hover .aboutme_content {
+  display:block
+  
+}
+
+.contact {
+  color: #eddbd0;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 12px;
 }
