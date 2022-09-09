@@ -8,10 +8,10 @@
 ## Inhoudsopgave
 
 - [Visitekaartje](#titel)
-  * [💬opdracht](#beschrijving)
-  * [🧠brainstorm](#kenmerken)
-  * [🎨ontwerpen](#installatie)
-  * [💻intergreren](#gebruik)
+  * [💬opdracht](#opdracht)
+  * [🧠brainstorm](#brainstorm)
+  * [🎨ontwerpen](#ontwerpen)
+  * [💻intergreren](#intergreren)
 
 
 ## opdracht
