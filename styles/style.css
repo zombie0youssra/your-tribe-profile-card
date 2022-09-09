@@ -19,7 +19,7 @@ body {
 
 }
 header {
-  background-color: #893700;
+  background-color: #c03900c5;
   width: fit-content;
   height: fit-content;
   border-radius: 2em;  
@@ -38,6 +38,7 @@ header {
 .streep {
   background-color: #fabb00;
   border-radius: 2em;
+  margin-top: 1em;
   height: 8px;
   width: 300px;
   display: block;
@@ -54,7 +55,7 @@ header {
 .status {
   color: #eddbd0;
   font-family: arial;
-  font-size: 14px;
+  font-size: 16px;
   font-style: italic;
   margin-top: 6px;
   text-align: center;
@@ -82,8 +83,7 @@ header {
  display: none;
  text-align: center;
  transition: 1.5s;
- background-color: #893700;
- word-wrap:
+ width: 200px;
 
 }
 
@@ -98,3 +98,11 @@ header {
   font-family: 'Times New Roman', Times, serif;
   font-size: 12px;
 }
+.contact_content {
+  display: none;
+  text-align: center;
+  transition: 1.5s;
+}
+ .contact:hover .contact_content {
+  display: block;
+ }
