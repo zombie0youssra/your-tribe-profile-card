@@ -18,13 +18,13 @@
 ## opdracht
 de opdracht is om een visitiekaartje te maken.
 ## brainstorm
-tijdens deze fase heb.......
+tijdens deze fase heb ik ideen op gedaan door te kijken naar codepens en youtube videos.
 ## ontwerpen
-in mijn ontwerpen heb.......
+Mijn ontwerpen
 ## intergreren
-......
+
 ## Bronnen
-.................
+
 ## Licentie
 
 ![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
